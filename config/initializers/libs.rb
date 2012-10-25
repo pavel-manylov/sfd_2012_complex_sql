@@ -1,0 +1,1 @@
+require "#{Rails.root}/lib/add_select.rb"
